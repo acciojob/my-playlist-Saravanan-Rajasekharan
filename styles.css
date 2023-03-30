@@ -8,6 +8,9 @@ h1{
 h2{
 	text-align:center;
 }
+a{
+	text-decoration:none;
+}
 
 .player_one{
 	background-color:white;
@@ -15,7 +18,9 @@ h2{
 	padding:20px;
 	border:1px solid black;
 	border-radius:5px;
+	
 }
+
 
 .player_two{
 	background-color:white;
