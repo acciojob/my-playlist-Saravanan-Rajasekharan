@@ -15,12 +15,13 @@ a{
 
 li{
 	list-style-type: none;
+	margin:0;
+	padding:0;
 }
 
 .player_one{
 	background-color:white;
 	text-align:left;
-	padding:20px;
 	border:1px solid black;
 	border-radius:5px;
 	
